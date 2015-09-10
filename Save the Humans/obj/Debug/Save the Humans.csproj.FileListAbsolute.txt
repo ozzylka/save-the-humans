@@ -1,0 +1,13 @@
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojResolveAssemblyReference.cache
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\MainWindow.baml
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\MainWindow.g.cs
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.Cache
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+c:\users\nadiia.karasova\documents\visual studio 2013\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
