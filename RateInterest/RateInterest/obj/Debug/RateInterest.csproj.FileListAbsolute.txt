@@ -1,0 +1,9 @@
+c:\users\missk_000\documents\visual studio 2013\Projects\RateInterest\RateInterest\bin\Debug\RateInterest.exe.config
+c:\users\missk_000\documents\visual studio 2013\Projects\RateInterest\RateInterest\bin\Debug\RateInterest.exe
+c:\users\missk_000\documents\visual studio 2013\Projects\RateInterest\RateInterest\bin\Debug\RateInterest.pdb
+c:\users\missk_000\documents\visual studio 2013\Projects\RateInterest\RateInterest\obj\Debug\RateInterest.csprojResolveAssemblyReference.cache
+c:\users\missk_000\documents\visual studio 2013\Projects\RateInterest\RateInterest\obj\Debug\RateInterest.Form1.resources
+c:\users\missk_000\documents\visual studio 2013\Projects\RateInterest\RateInterest\obj\Debug\RateInterest.Properties.Resources.resources
+c:\users\missk_000\documents\visual studio 2013\Projects\RateInterest\RateInterest\obj\Debug\RateInterest.csproj.GenerateResource.Cache
+c:\users\missk_000\documents\visual studio 2013\Projects\RateInterest\RateInterest\obj\Debug\RateInterest.exe
+c:\users\missk_000\documents\visual studio 2013\Projects\RateInterest\RateInterest\obj\Debug\RateInterest.pdb
